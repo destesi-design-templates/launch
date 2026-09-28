@@ -1,0 +1,13 @@
+{
+  "id": "launch",
+  "name": "Launch",
+  "description": "A full-screen launch cover with giant type, a moving strip, the product's story, glowing product cards, questions and a closing call.",
+  "best_for": "One hero product or a limited drop",
+  "backend": "commerce",
+  "es": {
+    "name": "Lanzamiento",
+    "description": "Una portada a pantalla completa con letra gigante, una franja en movimiento, la historia del producto, tarjetas que brillan, preguntas y un cierre.",
+    "best_for": "Un producto estrella o un lanzamiento limitado"
+  },
+  "hero_compact": false
+}
