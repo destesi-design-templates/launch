@@ -36,7 +36,7 @@ export function Home() {
         props: {
           eyebrow: "Pensado para el día a día",
           title: "Del escritorio al camino",
-          body: "Lo diseñamos pensando en cómo lo vas a usar: en el trabajo, afuera y en todo lo que pasa entre medio. Simple, cómodo y listo para acompañarte cada día.",
+          body: "Pensado para cómo lo vas a usar: en el trabajo, afuera y en todo lo que pasa entre medio. Simple, cómodo y listo para acompañarte cada día.",
           button_label: "Ver la colección",
           image_side: "right"
         }

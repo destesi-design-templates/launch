@@ -17,11 +17,12 @@ src/pages.jsx        the pages in code: Home(), Product() — one <Section> lite
 src/theme.css        the look: --shop-* tokens and rules over the base's shop.css
 src/demo.js          the sample shop shown only where no shop is behind the page
 src/demo/*.webp      its generated photos
+public/assets/*      images the pages or theme.css use as assets/<name>
 skills/*.md          guidance the Design agent reads in a project made from this template
 ```
 
-Run it locally from a Destesi checkout:
-`make -C apps/design/api template-dev DIR=<path to this repo>`.
+Run it locally from a Destesi checkout, passing this repository's absolute path:
+`make -C apps/design/api template-dev DIR=<absolute path to this repo>`.
 
 The rules a template follows (refused paths, the pages shape, copy that goes
 live until edited) are in
